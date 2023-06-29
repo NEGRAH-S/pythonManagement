@@ -1,0 +1,11 @@
+item_name,category,price,quantity
+Apple,Fruits,1.99,10
+Banana,Fruits,0.99,20
+Orange,Fruits,0.75,15
+Bread,Bakery,2.50,8
+Milk,Dairy,3.99,12
+Eggs,Dairy,2.25,18
+Chicken,Meat,6.99,5
+Tomato,Vegetables,0.50,30
+Potato,Vegetables,0.40,25
+
